@@ -22,9 +22,9 @@ Este proyecto contiene scripts prácticos para aprender y practicar la automatiz
    ```bash
    git clone https://github.com/IvanaaCastillo/ejercicio-demo_selenium.git
 
-Instala las dependencias:
-
-pip install -r requirements.txt
+2. Instala las dependencias:
+   ```bash
+   pip install -r requirements.txt
 pytest
 
 
@@ -40,12 +40,11 @@ Copiar
 Editar
 pytest
 
-🛠️ Tecnologías usadas
-Python
+---
 
-Selenium WebDriver
-
-Google Chrome
-
-pytest
+## 🛠️ Tecnologías usadas
+- Python
+- Selenium WebDriver
+- Google Chrome
+- pytest
 
