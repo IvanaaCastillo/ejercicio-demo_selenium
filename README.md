@@ -26,7 +26,6 @@ Este proyecto contiene scripts prácticos para aprender y practicar la automatiz
    ```bash
    pip install -r requirements.txt
 
-
 3. Ejecuta los tests con pytest:
    ```bash
    pytest
