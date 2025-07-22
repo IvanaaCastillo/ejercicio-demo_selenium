@@ -25,21 +25,12 @@ Este proyecto contiene scripts prácticos para aprender y practicar la automatiz
 2. Instala las dependencias:
    ```bash
    pip install -r requirements.txt
-pytest
 
 
-bash
-Copiar
-Editar
-pip install -r requirements.txt
-
-Ejecuta los tests con pytest:
-
-bash
-Copiar
-Editar
-pytest
-
+3. Ejecuta los tests con pytest:
+   ```bash
+   pytest
+   
 ---
 
 ## 🛠️ Tecnologías usadas
